@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.eaiesb.training.students.studentsRepository;
+import com.example.demo.students.studentsRepository;
 
 
 
